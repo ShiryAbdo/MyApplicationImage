@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "974523122115",
+    "firebase_url": "https://test-be5af.firebaseio.com",
+    "project_id": "test-be5af",
+    "storage_bucket": "test-be5af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974523122115:android:4aebf862d270a19a",
+        "android_client_info": {
+          "package_name": "com.swaqny.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974523122115-vgk3rmv0onorudvtj7p04g9al125c9l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT2JlfeK3m6IAUn_PjufwKwy-CUcLB4Vc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
